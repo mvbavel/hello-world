@@ -1,2 +1,5 @@
 # hello-world
-My first test of GitHub
+
+Hi Humans!
+
+After 15 years learning to code again!
